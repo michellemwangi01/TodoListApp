@@ -1,0 +1,16 @@
+body{
+    background-color: moccasin;
+    height: 100px;
+}
+.tasksContainer{
+    width: 200px;
+    background-color: black;
+    background: linear-gradient(0,0,0,0.75, 0,0,0,0.75) ;
+    
+    
+}
+.bodyContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
